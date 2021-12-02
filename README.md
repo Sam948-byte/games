@@ -239,6 +239,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Clicker
 
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
+* [CivClicker](https://github.com/deathraygames/civ-clicker) [Play it now!](http://deathraygames.com/play-online/civ-clicker/)
 
 ## Point and Click
 
