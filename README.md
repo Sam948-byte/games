@@ -344,7 +344,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
 
 ## Puzzle/card/board
-
+* [Rise Of Engimas](https://github.com/AmirHammoutene/RiseOfEnigmas)
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
